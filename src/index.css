@@ -1,4 +1,9 @@
 .roster {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+}
+
+smash-character {
+  padding: 1em;
+  border: 2px solid purple;
 }

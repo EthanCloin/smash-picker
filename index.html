@@ -7,19 +7,13 @@
   </head>
   <body>
     <script type="module" src="src/index.js"></script>
-    <section class="roster">
-      <smash-character
-        iconFilename="PikachuHeadSSBU.png"
-        class="shadow-lg bg-slate-500"
-      ></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-      <smash-character iconFilename="PikachuHeadSSBU.png"></smash-character>
-    </section>
+    <section class="roster"></section>
+    <script>
+      const rosterSection = document.querySelector(".roster");
+      let character = document.createElement("smash-character");
+      character.setAttribute("iconFilename", "PikachuHeadSSBU.png");
+
+      rosterSection.appendChild(character);
+    </script>
   </body>
 </html>
