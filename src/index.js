@@ -1,3 +1,3 @@
 import { SmashCharacter } from "./smashCharacter.js";
 
-customElements.define("smash-character", SmashCharacter);
+// customElements.define("smash-character", SmashCharacter);
