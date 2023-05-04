@@ -1,0 +1,452 @@
+[
+  {
+    "name": "banjo",
+    "iconPath": "roster-icons/banjo.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "bayonetta",
+    "iconPath": "roster-icons/bayonetta.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "bowser",
+    "iconPath": "roster-icons/bowser.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "bowserJr",
+    "iconPath": "roster-icons/bowserJr.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "byleth",
+    "iconPath": "roster-icons/byleth.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "captainFalcon",
+    "iconPath": "roster-icons/captainFalcon.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "charizard",
+    "iconPath": "roster-icons/charizard.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "chrom",
+    "iconPath": "roster-icons/chrom.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "cloud",
+    "iconPath": "roster-icons/cloud.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "corrin",
+    "iconPath": "roster-icons/corrin.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "daisy",
+    "iconPath": "roster-icons/daisy.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "darkPit",
+    "iconPath": "roster-icons/darkPit.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "darkSamus",
+    "iconPath": "roster-icons/darkSamus.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "diddy",
+    "iconPath": "roster-icons/diddy.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "donkeyKong",
+    "iconPath": "roster-icons/donkeyKong.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "drMario",
+    "iconPath": "roster-icons/drMario.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "duckhunt",
+    "iconPath": "roster-icons/duckhunt.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "falco",
+    "iconPath": "roster-icons/falco.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "fox",
+    "iconPath": "roster-icons/fox.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "gameAndWatch",
+    "iconPath": "roster-icons/gameAndWatch.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ganondorf",
+    "iconPath": "roster-icons/ganondorf.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "greninja",
+    "iconPath": "roster-icons/greninja.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "hero",
+    "iconPath": "roster-icons/hero.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "iceClimbers",
+    "iconPath": "roster-icons/iceClimbers.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ike",
+    "iconPath": "roster-icons/ike.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "inciniroar",
+    "iconPath": "roster-icons/inciniroar.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "inkling",
+    "iconPath": "roster-icons/inkling.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "isabelle",
+    "iconPath": "roster-icons/isabelle.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ivysaur",
+    "iconPath": "roster-icons/ivysaur.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "jigglypuff",
+    "iconPath": "roster-icons/jigglypuff.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "joker",
+    "iconPath": "roster-icons/joker.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "kazuya",
+    "iconPath": "roster-icons/kazuya.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ken",
+    "iconPath": "roster-icons/ken.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "kingDedede",
+    "iconPath": "roster-icons/kingDedede.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "kingKRool",
+    "iconPath": "roster-icons/kingKRool.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "kirby",
+    "iconPath": "roster-icons/kirby.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "link",
+    "iconPath": "roster-icons/link.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "littleMac",
+    "iconPath": "roster-icons/littleMac.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "lucario",
+    "iconPath": "roster-icons/lucario.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "lucas",
+    "iconPath": "roster-icons/lucas.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "lucina",
+    "iconPath": "roster-icons/lucina.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "luigi",
+    "iconPath": "roster-icons/luigi.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "mario",
+    "iconPath": "roster-icons/mario.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "marth",
+    "iconPath": "roster-icons/marth.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "megaman",
+    "iconPath": "roster-icons/megaman.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "metaKnight",
+    "iconPath": "roster-icons/metaKnight.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "mewtwo",
+    "iconPath": "roster-icons/mewtwo.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "miiBrawler",
+    "iconPath": "roster-icons/miiBrawler.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "miiGunner",
+    "iconPath": "roster-icons/miiGunner.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "miiSwordsman",
+    "iconPath": "roster-icons/miiSwordsman.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "minmin",
+    "iconPath": "roster-icons/minmin.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "mythra",
+    "iconPath": "roster-icons/mythra.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ness",
+    "iconPath": "roster-icons/ness.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "olimar",
+    "iconPath": "roster-icons/olimar.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pacman",
+    "iconPath": "roster-icons/pacman.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "palutena",
+    "iconPath": "roster-icons/palutena.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "peach",
+    "iconPath": "roster-icons/peach.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pichu",
+    "iconPath": "roster-icons/pichu.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pikachu",
+    "iconPath": "roster-icons/pikachu.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "piranhaPlant",
+    "iconPath": "roster-icons/piranhaPlant.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pit",
+    "iconPath": "roster-icons/pit.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pokemonTrainer",
+    "iconPath": "roster-icons/pokemonTrainer.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "pyra",
+    "iconPath": "roster-icons/pyra.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "richter",
+    "iconPath": "roster-icons/richter.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ridley",
+    "iconPath": "roster-icons/ridley.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "rob",
+    "iconPath": "roster-icons/rob.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "robin",
+    "iconPath": "roster-icons/robin.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "rosalina",
+    "iconPath": "roster-icons/rosalina.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "roy",
+    "iconPath": "roster-icons/roy.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "ryu",
+    "iconPath": "roster-icons/ryu.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "samus",
+    "iconPath": "roster-icons/samus.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "sephiroth",
+    "iconPath": "roster-icons/sephiroth.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "sheik",
+    "iconPath": "roster-icons/sheik.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "shulk",
+    "iconPath": "roster-icons/shulk.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "simon",
+    "iconPath": "roster-icons/simon.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "snake",
+    "iconPath": "roster-icons/snake.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "sonic",
+    "iconPath": "roster-icons/sonic.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "sora",
+    "iconPath": "roster-icons/sora.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "squirtle",
+    "iconPath": "roster-icons/squirtle.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "steve",
+    "iconPath": "roster-icons/steve.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "terry",
+    "iconPath": "roster-icons/terry.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "toonlink",
+    "iconPath": "roster-icons/toonlink.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "villager",
+    "iconPath": "roster-icons/villager.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "wario",
+    "iconPath": "roster-icons/wario.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "wiiFitTrainer",
+    "iconPath": "roster-icons/wiiFitTrainer.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "wolf",
+    "iconPath": "roster-icons/wolf.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "yoshi",
+    "iconPath": "roster-icons/yoshi.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "younglink",
+    "iconPath": "roster-icons/younglink.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "zelda",
+    "iconPath": "roster-icons/zelda.png",
+    "backgroundColor": "orange-200"
+  },
+  {
+    "name": "zeroSuitSamus",
+    "iconPath": "roster-icons/zeroSuitSamus.png",
+    "backgroundColor": "orange-200"
+  }
+]
