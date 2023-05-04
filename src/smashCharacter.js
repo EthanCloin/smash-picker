@@ -1,6 +1,6 @@
 const ICON_PATH = "../static/roster-icons/";
 const ICON_FILENAME_ATTR = "iconFilename";
-class SmashCharacter extends HTMLElement {
+export class SmashCharacter extends HTMLElement {
   constructor() {
     super();
 
@@ -35,5 +35,3 @@ class SmashCharacter extends HTMLElement {
     this.shadowRoot.appendChild(_template.content.cloneNode(true));
   }
 }
-
-customElements.define("smash-character", SmashCharacter);
